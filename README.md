@@ -1,2 +1,1 @@
-# Galaxy
-user main stream
+# Galaxy Main Stream
